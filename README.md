@@ -4,4 +4,4 @@ features
 -Responsive navigation bar
 -Product cards
 -Hero banner sectiom
--Clean ui design
+-Clean us design
